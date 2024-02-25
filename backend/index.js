@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(
   cors({
     origin:
-      "https://65d89a4ac9fe29f5d74516b2--voluble-semifreddo-82045b.netlify.app",
+      "https://incomparable-churros-e15c68.netlify.app/",
     methods: ["GET", "POST"],
     allowedHeaders: ["Content-Type"],
   })
