@@ -24,7 +24,7 @@ This repository contains the code for a simple 2-page website developed to fulfi
 
 ## Deployment
 
-- **Frontend:** [https://incomparable-churros-e15c68.netlify.app/](https://incomparable-churros-e15c68.netlify.app/)
+- **Frontend:** [https://cointabltd-assignments.netlify.app](https://cointabltd-assignments.netlify.app)
 - **Backend/API:** [https://weary-blue-overshirt.cyclic.app](https://weary-blue-overshirt.cyclic.app)
 
 ## Technologies Used
